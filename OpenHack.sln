@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2006
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{A07B5EB6-E848-4116-A8D0-A826331D98C6}") = "OpenHack", "OpenHack\OpenHack.sfproj", "{BE1478BB-468E-43CD-918A-89938F8B980C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE1478BB-468E-43CD-918A-89938F8B980C}.Debug|x64.ActiveCfg = Debug|x64
+		{BE1478BB-468E-43CD-918A-89938F8B980C}.Debug|x64.Build.0 = Debug|x64
+		{BE1478BB-468E-43CD-918A-89938F8B980C}.Debug|x64.Deploy.0 = Debug|x64
+		{BE1478BB-468E-43CD-918A-89938F8B980C}.Release|x64.ActiveCfg = Release|x64
+		{BE1478BB-468E-43CD-918A-89938F8B980C}.Release|x64.Build.0 = Release|x64
+		{BE1478BB-468E-43CD-918A-89938F8B980C}.Release|x64.Deploy.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A7BD351-99E8-44BC-AB85-215E8382BA18}
+	EndGlobalSection
+EndGlobal
